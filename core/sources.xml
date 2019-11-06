@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.1">
-			<file name="sources.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/sources.xml" />
+			<file name="sources.xml" url="https://raw.githubusercontent.com/bilgetz/elements/master/core/sources.xml" />
 		</update>
 	</info>
 	<element name="Player’s Handbook" type="Source" source="Player’s Handbook" id="ID_WOTC_SOURCE_PLAYERS_HANDBOOK">

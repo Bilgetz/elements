@@ -6,11 +6,11 @@ Go to the _Additional Content_ tab in Aurora, enter the URL of the index file, a
 <br>
 More information about extending the content can be found [here](http://aurorabuilder.com/content/ "Additional Content").
 
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/core.index
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements.index
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana.index
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party.index *
-- https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew.index *
+- https://raw.githubusercontent.com/bilgetz/elements/master/core.index
+- https://raw.githubusercontent.com/bilgetz/elements/master/supplements.index
+- https://raw.githubusercontent.com/bilgetz/elements/master/unearthed-arcana.index
+- https://raw.githubusercontent.com/bilgetz/elements/master/third-party.index *
+- https://raw.githubusercontent.com/bilgetz/elements/master/homebrew.index *
 
 _* content from these sources will be restructured in the near future, click [here](http://aurorabuilder.com/posts/37/project-restructure/ "Project Restructure") for more information_
 

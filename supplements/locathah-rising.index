@@ -3,10 +3,10 @@
 	<info>
 		<name>Locathah Rising</name>
 		<update version="0.0.1">
-			<file name="locathah-rising.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/locathah-rising.index" />
+			<file name="locathah-rising.index" url="https://raw.githubusercontent.com/bilgetz/elements/master/supplements/locathah-rising.index" />
 		</update>
 	</info>
 	<files>
-		<file name="race-locathah.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/locathah-rising/races/race-locathah.xml" />
+		<file name="race-locathah.xml" url="https://raw.githubusercontent.com/bilgetz/elements/master/supplements/locathah-rising/races/race-locathah.xml" />
 	</files>
 </index>

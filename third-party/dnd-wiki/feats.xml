@@ -5,7 +5,7 @@
         <description>5e homebrew</description>
         <author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
         <update version="0.1.4">
-            <file name="feats.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/feats.xml" />
+            <file name="feats.xml" url="https://raw.githubusercontent.com/bilgetz/elements/master/third-party/dnd-wiki/feats.xml" />
         </update>
     </info>
     

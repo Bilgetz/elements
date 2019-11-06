@@ -5,7 +5,7 @@
         <description>The Spells from D&amp;D Wiki</description>
         <author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
         <update version="0.1.1">
-            <file name="spells.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/spells.xml" />
+            <file name="spells.xml" url="https://raw.githubusercontent.com/bilgetz/elements/master/third-party/dnd-wiki/spells.xml" />
         </update>
     </info>
 

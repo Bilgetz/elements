@@ -12,7 +12,7 @@
        <description>5e homebrew</description>
        <author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
        <update version="0.0.2">
-           <file name="background-apothecary.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/backgrounds/background-apothecary.xml" />
+           <file name="background-apothecary.xml" url="https://raw.githubusercontent.com/bilgetz/elements/master/third-party/dnd-wiki/backgrounds/background-apothecary.xml" />
        </update>
     </info>
 

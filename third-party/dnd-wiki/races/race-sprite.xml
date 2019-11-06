@@ -5,7 +5,7 @@
         <description>Sprite</description>
         <author url="https://www.dandwiki.com/wiki/Sprite_(5e_Race)">D&amp;D Wiki</author>
         <update version="0.0.1">
-            <file name="race-sprite.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/races/race-sprite.xml" />
+            <file name="race-sprite.xml" url="https://raw.githubusercontent.com/bilgetz/elements/master/third-party/dnd-wiki/races/race-sprite.xml" />
         </update>
     </info>
     

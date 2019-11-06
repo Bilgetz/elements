@@ -5,11 +5,11 @@
 		<description>The 5e homebrew content from Genuine Fantasy Press.</description>
 		<author url="www.genfantasypress.com">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="genuine-fantasy-press.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press.index" />
+			<file name="genuine-fantasy-press.index" url="https://raw.githubusercontent.com/bilgetz/elements/master/third-party/genuine-fantasy-press.index" />
 		</update>
 	</info>
 	<files>		
 		<!-- compendiums -->
-		<file name="forgotten-secrets.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/forgotten-secrets.index" />		
+		<file name="forgotten-secrets.index" url="https://raw.githubusercontent.com/bilgetz/elements/master/third-party/genuine-fantasy-press/forgotten-secrets.index" />
 	</files>
 </index>

@@ -5,7 +5,7 @@
         <description>5E Homebrew weapons from D&amp;D Wiki</description>
         <author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
         <update version="0.1.2">
-            <file name="items-weapons.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/items/items-weapons.xml" />
+            <file name="items-weapons.xml" url="https://raw.githubusercontent.com/bilgetz/elements/master/third-party/dnd-wiki/items/items-weapons.xml" />
         </update>
 	</info>
 	<element name="Katana" type="Weapon" source="D&amp;D Wiki" id="ID_WIKI_WEAPON_KATANA">
