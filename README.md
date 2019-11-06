@@ -1,10 +1,11 @@
 # Aurora
-Visit the [website](http://www.aurorabuilder.com "Aurora Website") for more information about Aurora and check out the [support page](http://www.aurorabuilder.com/support "Aurora Support Page") if you have any questions.
+Ceci est un traduction francaise (en cours) pour Aurora.
+Visitez le [site web](http://www.aurorabuilder.com "Aurora Website") pour plus d'informations à propos de Aurora and regardez [la page de support](http://www.aurorabuilder.com/support "Aurora Support Page") si vous avez des questions.
 
-### Extending Content
-Go to the _Additional Content_ tab in Aurora, enter the URL of the index file, and have Aurora download the content to the custom folder for you. When these files get updated, Aurora will be able to keep content files up to date automatically.
+### Contenue etendue
+Allez dans _Additional Content_ tab de Aurora, entrer les URL des fichiers d'index, et laissez Aurora telecharger le contenue dans le repertoire personnalisé pour vous. Quand les fichiez sont mis à jours, Aurora est capabacle de les tenir à jour automatiquements.
 <br>
-More information about extending the content can be found [here](http://aurorabuilder.com/content/ "Additional Content").
+Plus d'information a propos de l'extension de contenue peut etre trouvé [ici](http://aurorabuilder.com/content/ "Additional Content").
 
 - https://raw.githubusercontent.com/bilgetz/elements/master/core.index
 - https://raw.githubusercontent.com/bilgetz/elements/master/supplements.index
@@ -12,12 +13,12 @@ More information about extending the content can be found [here](http://aurorabu
 - https://raw.githubusercontent.com/bilgetz/elements/master/third-party.index *
 - https://raw.githubusercontent.com/bilgetz/elements/master/homebrew.index *
 
-_* content from these sources will be restructured in the near future, click [here](http://aurorabuilder.com/posts/37/project-restructure/ "Project Restructure") for more information_
+_* le contenue depuis ces sources peut etre restructuré dans le futur, clickez [ici](http://aurorabuilder.com/posts/37/project-restructure/ "Project Restructure") pour plus d'informations_
 
 ### Community Driven Content
-A collection of community driven content for homebrew content can be found [here](http://aurorabuilder.com/content/#community "Community Driven Content").
+Une collections de contenue fournit pas la ciommunauté peut etre trouvé [ici](http://aurorabuilder.com/content/#community "Community Driven Content").
 
 ### Content Request
-You can request content by creating an issue in the appropriate repository with the request.
+Vous pouvez demandé du contenue en creant une issue qand le depot approprié avec une requete. 
 <br>
-_No guarantees, people create content in their free time._
+_Pas de garantie, les personnes crant le contenue sur leur propre temps libre._
