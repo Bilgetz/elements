@@ -13,49 +13,49 @@
     <requirements />
     <description>
       <!-- <p class="flavor">A fierce warrior of primitive background who can enter a battle rage.</p> -->
-      <p>A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people’s elk herd.</p>
-      <p class="indent">A half-orc snarls at the latest challenger to her authority over their savage tribe, ready to break his neck with her bare hands as she did to the last six rivals.</p>
-      <p class="indent">Frothing at the mouth, a dwarf slams his helmet into the face of his drow foe, then turns to drive his armored elbow into the gut of another.</p>
-      <p class="indent">These barbarians, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.</p>
-      <p class="indent">For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.</p>
-      <h4>PRIMAL INSTINCT</h4>
-      <p>People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one’s own nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.</p>
-      <p class="indent">Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.</p>
-      <h4>A LIFE OF DANGER</h4>
-      <p>Not every member of the tribes deemed “barbarians” by scions of civilized society has the barbarian class. A true barbarian among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Barbarians charge headlong into that danger so that their people don’t have to.</p>
-      <p class="indent">Their courage in the face of danger makes barbarians perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a barbarian. Some barbarians miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.</p>
-      <h4>CREATING A BARBARIAN</h4>
-      <p>When creating a barbarian character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your barbarian. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are common?</p>
-      <p class="indent">What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to “civilized” lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.</p>
-      <h5>QUICK BUILD</h5>
-      <p>You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the outlander background.</p>
-      <h3>CLASS FEATURES</h3>
-      <p>As a barbarian, you gain the following class features.</p>
-      <h5>HIT POINTS</h5>
+      <p>Drapé de fourrure et portant une hache, un humain tribal de haute taille marche à grandes enjambées à travers le blizzard. Riant aux éclats, il charge le géant du givre qui a osé s'en prendre au troupeau de son clan.</p>
+      <p class="indent">Une demi-orque grogne férocement contre le dernier adversaire qui a voulu remettre en cause son autorité sur la tribu, prête à lui briser le cou comme elle l'a fait avec les six précédents.</p>
+      <p class="indent">L'écume aux lèvres, un nain balance son casque dans le visage d'un premier ennemi drow puis, se retournant, envoie sa cubitière dans le ventre d'un second.</p>
+      <p class="indent">Ces barbares, bien que différents, ont en commun leur rage : un déchaînement de fureur, inextinguible et irraisonné. Bien plus qu'une émotion passagère, leur colère est celle d'un féroce prédateur acculé, l'assaut implacable de la tempête, le tumulte d'une mer démontée.</p>
+      <p class="indent"> Pour certains, leur rage est le fruit d'une communion avec de fiers esprits animaux. D'autres la puisent d'une réserve trouble de colère contre ce monde de souffrance. Mais pour tous, la rage est une force qui n'alimente pas que leur frénésie guerrière. Elle leur donne aussi des réflexes, une résistance et des prouesses physiques incroyables.</p>
+      <h4>Instinct primitif</h4>
+      <p>Villageois et citadins sont fiers de leur manières civilisées qui les distinguent des animaux, comme si renier sa propre nature était un signe de supériorité. Mais pour un barbare, la civilisation n'est pas une vertu, c'est un signe de faiblesse. Les forts assument leurs instincts naturels, leur physique primitif et leur rage féroce. Les barbares ne sont pas à l'aise derrière des murs ou entourés par la foule. Ils prospèrent sur les étendues sauvages de leurs terres natales : la toundra, la jungle ou les prairies où leur tribu vit et chasse.</p>
+      <p class="indent">Les barbares renaissent dans le chaos d'un combat. Ils peuvent entrer en rage et devenir fous furieux, ce qui leur donne une force et une résistance au-delà des limites humaines. Un barbare ne peut puiser dans cette réserve de furie que quelquefois avant de devoir se reposer, mais ces quelques rages sont généralement suffisantes pour annihiler toute menace.</p>
+      <h4>Une vie pleine de danger</h4>
+      <p>Un membre d'une tribu réputée « barbare » par la société civilisée ne possède pas forcément des niveaux dans la classe de barbare. Un vrai barbare parmi son peuple est aussi rare qu'un guerrier compétent en ville, et il ou elle joue un rôle similaire destiné à protéger son peuple et à être un meneur en cas de guerre. La vie dans les endroits sauvages du monde est remplie de dangers : des tribus rivales, un climat hostile et des monstres terrifiants. Les barbares s'y jettent la tête la première afin que leur peuple n'ait pas besoin de le faire.</p>
+      <p class="indent">Le courage dont ils font preuve face au danger en font de parfaits aventuriers. L'errance étant souvent le mode de vie de leur tribu natale, la vie souvent sans attache d'un aventurier n'est donc pas contraignante pour un barbare. La structure familiale d'une tribu et ses membres très unis peut manquer au barbare mais, finalement, elle sera compensée par les liens tissés avec leurs compagnons d'aventure.</p>
+      <h4>Créer un barbare</h4>
+      <p>Lorsque vous créez un barbare, réfléchissez d'où il vient et quelle est sa place dans le monde. Discutez avec votre MD afin de lui trouver une origine appropriée. Venez-vous d'une contrée éloignée faisant de vous un étranger dans la campagne ? Ou bien cette même campagne se déroule t-elle dans une rude région frontalière où les barbares sont communs ?</p>
+      <p class="indent">Qu'est-ce qui vous a poussé à devenir aventurier ? Avez vous été séduit par la certitude de devenir riche dans les pays régis par les lois ? Avez-vous joint vos forces avec les soldats de ces mêmes pays afin de repousser une menace commune ? Est-ce que des monstres ou une horde étrangère vous ont contraint à l'exil ? Vous étiez peut-être un prisonnier de guerre, conduit enchaîné dans les pays « civilisés » et qui tente de regagner sa liberté à tout prix. Ou peut-être avez vous été banni de votre peuple suite à un crime que vous avez commis, un tabou que vous avez brisé ou une révolte qui vous a déchu de votre autorité.</p>
+      <h5>Création rapide</h5>
+      <p>Vous pouvez concevoir rapidement un barbare en suivant ces quelques suggestions. En premier lieu, la Force devrait être votre plus haute valeur de caractéristique, suivie par la Constitution. Ensuite, choisissez l'historique sauvageon.</p>
+      <h3>Capacités de classe</h3>
+      <p>En tant que barbare, vous avez les capacités suivantes.</p>
+      <h5>Points de vie</h5>
       <p>
-        <span class="emphasis">Hit Dice:</span>1d12 per barbarian level
+        <span class="emphasis">dé de vie:</span>1d12 par niveau de barbare
         <br />
-        <span class="emphasis">Hit Points at 1st Level:</span>12 + your Constitution modifier
+        <span class="emphasis">Point de vie au niveau 1:</span>12 + votre modificateur de Constitution
         <br />
-        <span class="emphasis">Hit Points at Higher Levels:</span>1d12 (or 7) + your Constitution modifier per barbarian level after 1st
+        <span class="emphasis">pv aux niveaux suivants:</span>1d12 (ou 7) + votre modificateur de Constitution modifier par le niveau de barbare après le niveau 1
         <br />
       </p>
-      <h5>PROFICIENCIES</h5>
+      <h5>Maîtrises</h5>
       <p>
-        <span class="emphasis">Armor:</span>Light armor, medium armor, shields<br />
-        <span class="emphasis">Weapons:</span>Simple weapons, martial weapons<br />
-        <span class="emphasis">Tools:</span>None
+        <span class="emphasis">Armures :</span>armures légères, armures intermédiaires, boucliers<br />
+        <span class="emphasis">Armes :</span>armes courantes, armes de guerre<br />
+        <span class="emphasis">Outils :</span>aucun
       </p>
       <p>
-        <span class="emphasis">Saving Throws:</span>Strength, Constitution<br />
-        <span class="emphasis">Skills:</span>Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+        <span class="emphasis">Jets de sauvegarde:</span>Force, Constitution<br />
+        <span class="emphasis">Compétences :</span>choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception et Survie
       </p>
-      <h5>EQUIPMENT</h5>
-      <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+      <h5>Équipement</h5>
+      <p>Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :</p>
       <ul>
-        <li><i>(a)</i> a greataxe or <i>(b)</i> any martial melee weapon</li>
-        <li><i>(a)</i> two handaxes or <i>(b)</i> any simple weapon</li>
-        <li>An explorer’s pack and four javelins</li>
+        <li><i>(a)</i>  une hache à deux mains ou <i>(b)</i> n'importe quelle arme de guerre de corps à corps</li>
+        <li><i>(a)</i> deux hachettes ou <i>(b)</i> n'importe quelle arme courante</li>
+        <li>un sac d'explorateur et quatre javelines</li>
       </ul>
       <div element="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_RAGE" />
       <div element="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_UNARMORED_DEFENCE" />
@@ -73,10 +73,10 @@
       <div element="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_PRIMAL_CHAMPION" />
     </description>
     <sheet display="false">
-      <description>A fierce warrior of primitive background who can enter a battle rage.</description>
+      <description>Un guerrier féroce avec un historique primitif qui peut entrer dans une rage guerriere.</description>
     </sheet>
     <setters>
-      <set name="short">A fierce warrior of primitive background who can enter a battle rage.</set>
+      <set name="short">Un guerrier féroce avec un historique primitif qui peut entrer dans une rage guerriere.</set>
       <set name="hd">d12</set>
     </setters>
     <rules>
@@ -120,19 +120,19 @@
   </element>
   <element name="Rage" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_RAGE">
     <description>
-      <p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren’t wearing heavy armor:</p>
+      <p>En combat, vous vous battez avec une férocité bestiale. Durant votre tour, vous pouvez entrer en rage en utilisant une action bonus. En rage, vous gagnez les bénéfices suivants si vous ne portez pas d'armure lourde :</p>
       <ul>
-        <li>You have advantage on Strength checks and Strength saving throws.</li>
-        <li>When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.</li>
-        <li>You have resistance to bludgeoning, piercing, and slashing damage.</li>
+        <li>Vous avez l'avantage aux jets de Force et aux jets de sauvegarde de Force.</li>
+        <li>Quand vous effectuez une attaque au corps à corps avec une arme utilisant la Force, vous gagnez un bonus aux jets de dégâts qui dépend de votre niveau de barbare, comme indiqué dans la colonne Dégâts de la table ci-dessus.</li>
+        <li>Vous avez la résistance aux dégâts contondants, perforants et tranchants.</li>
       </ul>
-      <p>If you are able to cast spells, you can’t cast them or concentrate on them while raging.</p>
-      <p>Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.</p>
-      <p>Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.</p>
+      <p>Si vous êtes capable de lancer des sorts, vous ne pouvez les lancer ou vous concentrer sur eux pour toute la durée de la rage.</p>
+      <p>Votre rage dure 1 minute. Elle finit prématurément si vous devenez inconscient, ou si votre tour se termine et que vous n'avez ni attaqué une créature hostile, ni subi des dégâts, depuis votre précédent tour. Vous pouvez également mettre fin à votre rage durant votre tour par une action bonus.</p>
+      <p>Vous récupérez les utilisations de rage dépensées après avoir terminé un repos long.</p>
     </description>
     <sheet action="Bonus Action">
-      <description usage="{{barbarian rage:count}}/Day">Advantage on Strength checks and Strength Saving Throws. A +{{barbarian rage:damage}} to damage rolls with strength melee weapon attacks. You have resistance to bludgeoning, piercing, and slashing damage. </description>
-      <description level="20" usage="Unlimited">Advantage on Strength checks and Strength Saving Throws. A +{{barbarian rage:damage}} to damage rolls with strength melee weapon attacks. You have resistance to bludgeoning, piercing, and slashing damage.</description>
+      <description usage="{{barbarian rage:count}}/Jours">Avantage sur les test de force et les jets de sauvegarde de Force. +{{barbarian rage:damage}} au degat d'une attaque au corps à corps utilisant la force. Vous avez la résistance aux dégâts contondants, perforants et tranchants.</description>
+      <description level="20" usage="Unlimited">Avantage sur les test de force et les jets de sauvegarde de Force. +{{barbarian rage:damage}} au degat d'une attaque au corps à corps utilisant la force. Vous avez la résistance aux dégâts contondants, perforants et tranchants.</description>
     </sheet>
     <rules>
       <stat name="barbarian rage:count" value="2" level="1" />
@@ -154,12 +154,12 @@
       -->
     </rules>
   </element>
-  <element name="Unarmored Defense" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_UNARMORED_DEFENCE">
+  <element name="Défense sans armure" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_UNARMORED_DEFENCE">
     <description>
-      <p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p>
+      <p>Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et en gagner les avantages.</p>
     </description>
     <sheet>
-      <description>While you aren’t wearing armor, your AC equals {{ac:unarmored defense barbarian}}. You can use a shield and still gain this benefit.</description>
+      <description>Tant que vous ne portez pas d'armure, votre classe d'armure est égale à {{ac:unarmored defense barbarian}}. Vous pouvez utiliser un bouclier et en gagner les avantages.</description>
     </sheet>
     <rules>
 		<stat name="ac:unarmored defense barbarian:base" value="10" />
@@ -173,38 +173,38 @@
 		<stat name="ac:calculation" value="ac:unarmored defense barbarian" bonus="calculation" equipped="[armor:none]" alt="Unarmored Defense (Barbarian)" />
     </rules>
   </element>
-  <element name="Reckless Attack" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_RECKLESS_ATTACK">
+  <element name="Attaque téméraire" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_RECKLESS_ATTACK">
     <description>
-      <p>Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.</p>
+      <p>À partir du niveau 2, vous pouvez mettre de côté votre défense pour attaquer avec toute la violence du désespoir. Lorsque vous effectuez la première attaque de votre tour, vous pouvez décider d'effectuer une Attaque téméraire. Vous obtenez ainsi un avantage aux jets d'attaque au corps à corps avec une arme utilisant la Force durant ce tour, mais les attaques effectuées contre vous ont également l'avantage jusqu'à votre prochain tour.</p>
     </description>
     <sheet>
-      <description>When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.</description>
+      <description>Lorsque vous effectuez la première attaque de votre tour, vous pouvez décider d'effectuer une Attaque téméraire. Vous obtenez ainsi un avantage aux jets d'attaque au corps à corps avec une arme utilisant la Force durant ce tour, mais les attaques effectuées contre vous ont également l'avantage jusqu'à votre prochain tour.</description>
     </sheet>
   </element>
-  <element name="Danger Sense" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_DANGER_SENSE">
+  <element name="Sens du danger" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_DANGER_SENSE">
     <description>
-      <p>At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.</p>
-      <p>You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.</p>
+      <p>Au niveau 2, vous ressentez une sensation étrange lorsque les choses qui vous entourent ne sont pas comme elles devraient être, vous donnant un avantage lorsque vous tentez de vous extirper du danger</p>
+      <p>Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Pour bénéficier de cet effet vous ne devez pas être aveuglé, assourdi ou incapable d'agir.</p>
     </description>
     <sheet>
-      <description>You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.</description>
+      <description>Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Pour bénéficier de cet effet vous ne devez pas être aveuglé, assourdi ou incapable d'agir.</description>
     </sheet>
     <rules>
       <!--<stat name="advantage:Dexterity Saving Throws" condition="against effects that you can see, such as traps and spells. While not blinded, deafened, or incapacitated." />-->
     </rules>
   </element>
-  <element name="Primal Path" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_PRIMAL_PATH">
+  <element name="Voie primitive" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_PRIMAL_PATH">
     <description>
-      <p>At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.</p>
+      <p>Au niveau 3, vous choisissez la voie par laquelle s'exprime votre rage. Choisissez la voie du berserker ou la voie du guerrier totem, chacune étant détaillée ci-dessous. Votre choix vous accorde des capacités aux niveaux 3, 6, 10 et 14.</p>
     </description>
     <sheet />
     <rules>
       <select type="Archetype" name="Primal Path" supports="Primal Path" level="3" />
     </rules>
   </element>
-  <element name="Ability Score Improvement (Barbarian)" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_ABILITYSCOREIMPROVEMENT">
+  <element name="Amélioration de caractéristiques (Barbare)" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_ABILITYSCOREIMPROVEMENT">
     <description>
-      <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
+      <p>Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais.</p>
     </description>
     <sheet display="false" />
     <rules>
@@ -215,23 +215,23 @@
       <select type="Class Feature" name="Improvement Option (Barbarian 19)" supports="Improvement Option,Barbarian,19" level="19" />
     </rules>
   </element>
-  <element name="Extra Attack" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_EXTRA_ATTACK">
+  <element name="Attaque supplémentaire" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_EXTRA_ATTACK">
     <description>
-      <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+      <p>À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une seule, chaque fois que vous réalisez l'action Attaquer durant votre tour.</p>
     </description>
     <sheet>
-      <description>You can attack twice, instead of once, whenever you take the Attack action on your turn.</description>
+      <description>Vous pouvez attaquer deux fois, au lieu d'une seule, chaque fois que vous réalisez l'action Attaquer durant votre tour.</description>
     </sheet>
     <rules>
 		<stat name="extra attack:count" value="2" level="5" bonus="extra attack" />
     </rules>
   </element>
-  <element name="Fast Movement" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_FAST_MOVEMENT">
+  <element name="Déplacement rapide" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_FAST_MOVEMENT">
     <description>
-      <p>Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor.</p>
+      <p>Au niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure lourde.</p>
     </description>
     <sheet>
-      <description>Your speed increases by 10 feet while you aren’t wearing heavy armor.</description>
+      <description>Votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure lourde.</description>
     </sheet>
     <rules>
 		<stat name="innate speed:misc" value="10" equipped="![armor:heavy]" requirements="[innate speed:1]" />
@@ -241,27 +241,27 @@
 		<stat name="innate speed:burrow:misc" value="10" equipped="![armor:heavy]" requirements="[innate speed:burrow:1]" />
     </rules>
   </element>
-  <element name="Feral Instinct" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_FERAL_INSTINCT">
+  <element name="Instinct sauvage" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_FERAL_INSTINCT">
     <description>
-      <p>By 7th level, your instincts are so honed that you have advantage on initiative rolls.</p>
-      <p>Additionally, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.</p>
+      <p>Au niveau 7, vos instincts sont si aiguisés que vous obtenez l'avantage aux jets d'initiative.</p>
+      <p>De plus, si vous êtes surpris au début du combat et que vous n'êtes pas incapable d'agir, vous pouvez jouer normalement durant votre premier tour, mais seulement si vous entrez en rage avant de faire quoique ce soit d'autre à ce tour.</p>
     </description>
     <sheet>
-      <description>You have advantage on initiative rolls. Additionally, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.</description>
+      <description>Vous obtenez l'avantage aux jets d'initiative. De plus, si vous êtes surpris au début du combat et que vous n'êtes pas incapable d'agir, vous pouvez jouer normalement durant votre premier tour, mais seulement si vous entrez en rage avant de faire quoique ce soit d'autre à ce tour.</description>
     </sheet>
 	<rules>
 		<grant type="Grants" id="ID_INTERNAL_GRANTS_INITIATIVE_ADVANTAGE" />
 	</rules>
   </element>
-  <element name="Brutal Critical" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_BRUTAL_CRITICAL">
+  <element name="Critique brutal" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_BRUTAL_CRITICAL">
     <description>
-      <p>Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.</p>
-      <p>This increases to two additional dice at 13th level and three additional dice at 17th level.</p>
+      <p>À partir du niveau 9, vous pouvez lancer un dé de dégâts de votre arme en plus lorsque vous déterminez les dégâts supplémentaires que vous infligez sur un coup critique réussi avec une attaque au corps à corps.</p>
+      <p>Ce bonus aux dégâts passe à deux dés au niveau 13 et à trois dés au niveau 17.</p>
     </description>
     <sheet>
-      <description>One additional weapon damage die when determining the extra damage for a critical hit with a melee attack.</description>
-      <description level="13">Two additional weapon damage die when determining the extra damage for a critical hit with a melee attack.</description>
-      <description level="17">Three additional weapon damage die when determining the extra damage for a critical hit with a melee attack.</description>
+      <description>Un dé de dégâts de votre arme en plus lorsque vous déterminez les dégâts supplémentaires que vous infligez sur un coup critique réussi avec une attaque au corps à corps.</description>
+      <description level="13">Deux dé de dégâts de votre arme en plus lorsque vous déterminez les dégâts supplémentaires que vous infligez sur un coup critique réussi avec une attaque au corps à corps.</description>
+      <description level="17">Trois dé de dégâts de votre arme en plus lorsque vous déterminez les dégâts supplémentaires que vous infligez sur un coup critique réussi avec une attaque au corps à corps.</description>
     </sheet>
     <rules>
       <stat name="brutal critical:dice:amount" value="1" />
@@ -269,40 +269,40 @@
       <stat name="brutal critical:dice:amount" value="1" level="17" />
     </rules>
   </element>
-  <element name="Relentless Rage" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_RELENTLESS_RAGE">
+  <element name="Rage implacable" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_RELENTLESS_RAGE">
     <description>
-      <p>Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.</p>
-      <p>Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.</p>
+      <p>À partir du niveau 11, votre rage vous permet de continuer à combattre en dépit des graves blessures qui vous affectent. Si vous tombez à 0 point de vie pendant votre rage et que vous ne mourrez pas sur le coup, vous pouvez faire un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous retournez immédiatement à 1 point de vie.</p>
+      <p>Chaque fois que vous utilisez cette capacité après la première, le DD augmente de 5. Quand vous terminez un repos court ou long le DD retombe à 10.</p>
     </description>
     <sheet>
-      <description>If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead. Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.</description>
+      <description>Si vous tombez à 0 point de vie pendant votre rage et que vous ne mourrez pas sur le coup, vous pouvez faire un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous retournez immédiatement à 1 point de vie. Chaque fois que vous utilisez cette capacité après la première, le DD augmente de 5. Quand vous terminez un repos court ou long le DD retombe à 10.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Persistant Rage" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_PERSISTANT_RAGE">
+  <element name="Rage ininterrompue" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_PERSISTANT_RAGE">
     <description>
-      <p>Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.</p>
+      <p>En atteignant le niveau 15, votre rage est si intense qu'elle ne s'arrête prématurément qu'à la condition que vous tombiez inconscient ou que vous choisissiez de l'arrêter.</p>
     </description>
     <sheet>
-      <description>Your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.</description>
+      <description>Votre rage est si intense qu'elle ne s'arrête prématurément qu'à la condition que vous tombiez inconscient ou que vous choisissiez de l'arrêter.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Indomitable Might" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_INDOMITABLE_MIGHT">
+  <element name="Puissance indomptable" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_INDOMITABLE_MIGHT">
     <description>
-      <p>Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.</p>
+      <p>Au niveau 18, si le résultat d'un de vos jets de Force est inférieur à votre valeur de Force, vous pouvez utiliser votre valeur de Force à la place de votre résultat.</p>
     </description>
     <sheet>
-      <description>If your total for a Strength check is less than your Strength score, you can use that score in place of the total.</description>
+      <description>Si le résultat d'un de vos jets de Force est inférieur à votre valeur de Force, vous pouvez utiliser votre valeur de Force à la place de votre résultat.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Primal Champion" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_PRIMAL_CHAMPION">
+  <element name="Champion primitif" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_BARBARIAN_PRIMAL_CHAMPION">
     <description>
-      <p>At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</p>
+      <p>Au niveau 20, vous êtes l'incarnation de la puissance du monde sauvage. Vos valeurs de Force et de Constitution augmentent de 4. Votre maximum dans ces valeurs de caractéristique est maintenant de 24.</p>
     </description>
     <sheet>
-      <description>You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</description>
+      <description>Vous êtes l'incarnation de la puissance du monde sauvage. Vos valeurs de Force et de Constitution augmentent de 4. Votre maximum dans ces valeurs de caractéristique est maintenant de 24.</description>
     </sheet>
     <rules>
       <stat name="strength" value="4" />
@@ -313,17 +313,17 @@
   </element>
 
   <!-- Path of the Berserker -->
-  <element name="Path of the Berserker" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_PATH_OF_THE_BERSERKER">
+  <element name="Voie du berserker" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_PATH_OF_THE_BERSERKER">
     <supports>Primal Path</supports>
     <description>
-      <p>For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.</p>
+      <p>Pour bon nombre de barbares, la rage est le moyen d'atteindre un but, ce but étant la violence. La voie du berserker est une voie de fureur débridée, poisseuse de sang. En entrant en rage de berserker, vous êtes électrisé par le chaos de la bataille, faisant fi de votre sécurité et de votre bien-être.</p>
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_FRENZY" />
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_MINDLESS_RAGE" />
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_INTIMIDATING_PRESENCE" />
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_RETALIATION" />
     </description>
     <sheet>
-      <description>The Path of the Berserker is a path of untrammeled fury, slick with blood.</description>
+      <description>La voie du berserker est une voie de fureur débridée, poisseuse de sang.</description>
     </sheet>
     <rules>
       <grant type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_FRENZY" level="3" />
@@ -332,49 +332,49 @@
       <grant type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_RETALIATION" level="14" />
     </rules>
   </element>
-  <element name="Frenzy" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_FRENZY">
+  <element name="Frénésie" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_FRENZY">
     <description>
-      <p>Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).</p>
+      <p>Dès que vous choisissez cette voie au niveau 3, vous pouvez choisir de sombrer dans un état de frénésie au cours de votre rage. Si vous le faites, pour la durée de votre rage, vous pouvez effectuer une unique attaque au corps à corps avec une arme en utilisant une action bonus à chacun de vos tours après celui-ci. Lorsque votre rage se termine, vous subissez un niveau d'épuisement.</p>
     </description>
     <sheet>
-      <description>For the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.</description>
+      <description>Pour la durée de votre rage, vous pouvez effectuer une unique attaque au corps à corps avec une arme en utilisant une action bonus à chacun de vos tours après celui-ci. Lorsque votre rage se termine, vous subissez un niveau d'épuisement.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Mindless Rage" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_MINDLESS_RAGE">
+  <element name="Rage inébranlable" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_MINDLESS_RAGE">
     <description>
-      <p>Beginning at 6th level, you can’t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.</p>
+      <p>À partir du niveau 6, vous ne pouvez pas être charmé ou effrayé tant que vous êtes en rage. Si vous êtes déjà charmé ou effrayé lorsque vous entrez en rage, l'effet est suspendu le temps de votre rage.</p>
     </description>
     <sheet>
-      <description>You can’t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.</description>
+      <description>Vous ne pouvez pas être charmé ou effrayé tant que vous êtes en rage. Si vous êtes déjà charmé ou effrayé lorsque vous entrez en rage, l'effet est suspendu le temps de votre rage.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Intimidating Presence" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_INTIMIDATING_PRESENCE">
+  <element name="Présence intimidante" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_INTIMIDATING_PRESENCE">
     <description>
-      <p>Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.</p>
-      <p>If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.</p>
+      <p>À partir du niveau 10, vous pouvez utiliser votre action pour effrayer quelqu'un avec votre présence effrayante. Pour ce faire, choisissez une créature que vous pouvez voir à 9 mètres maximum de vous. Si la créature peut vous voir ou vous entendre, elle doit réussir un jet de sauvegarde de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou vous la effrayez jusqu'à la fin de votre prochain tour. Aux tours suivants, vous pouvez utiliser votre action pour augmenter d'un tour supplémentaire la durée de cet effet sur la créature effrayée. Cet effet se termine si la créature finit son tour hors de votre ligne de vue ou qu'elle se trouve à plus de 18 mètres de vous.</p>
+      <p>Si la créature réussit son jet de sauvegarde, vous ne pouvez plus utiliser cette capacité contre elle durant 24 heures.</p>
     </description>
     <sheet>
-      <description>You can use your action to frighten someone with your menacing presence.</description>
+      <description>Vous pouvez utiliser votre action d'effraiement avec votre presence intimidante.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Retaliation" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_RETALIATION">
+  <element name="Représailles" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_BERSERKER_RETALIATION">
     <description>
-      <p>Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.</p>
+      <p>À partir du niveau 14, lorsque vous subissez des dégâts d'une créature située à 1,50 mètre de vous, vous pouvez utiliser votre réaction pour effectuer une attaque au corps à corps avec une arme contre cette créature.</p>
     </description>
     <sheet>
-      <description>When you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.</description>
+      <description>Lorsque vous subissez des dégâts d'une créature située à 1,50 mètre de vous, vous pouvez utiliser votre réaction pour effectuer une attaque au corps à corps avec une arme contre cette créature.</description>
     </sheet>
     <rules />
   </element>
 
   <!-- Path of the Totem Warrior -->
-  <element name="Path of the Totem Warrior" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_PATH_OF_THE_TOTEM_WARRIOR">
+  <element name="Voie du guerrier totem" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_PATH_OF_THE_TOTEM_WARRIOR">
     <supports>Primal Path</supports>
     <description>
-      <p>The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage. Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.</p>
+      <p>La voie du guerrier totem est un parcours spirituel, étant donné que le barbare accepte un esprit animal comme guide, protecteur et source d'inspiration. En plein bataille, votre esprit totem vous imprègne de pouvoirs surnaturels, distillant de l'essence magique dans votre rage. La plupart des tribus barbares utilise un animal totem comme signe d'appartenance à un clan particulier. Dans ce cas-là, il est rare pour un individu d'avoir plus d'un esprit-animal totem, bien qu'il existe des exceptions.</p>
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_SPIRIT_SEEKER" />
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT" />
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST" />
@@ -382,7 +382,7 @@
       <div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT" />
     </description>
     <sheet>
-      <description>The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration.</description>
+      <description>La voie du guerrier totem est un parcours spirituel, étant donné que le barbare accepte un esprit animal comme guide, protecteur et source d'inspiration.</description>
     </sheet>
     <rules>
       <grant type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_SPIRIT_SEEKER" level="3" />
@@ -392,22 +392,22 @@
       <grant type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT" level="14" />
     </rules>
   </element>
-  <element name="Spirit Seeker" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_SPIRIT_SEEKER">
+  <element name="Quêteur spirituel" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_SPIRIT_SEEKER">
     <description>
-      <p>Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the beast sense and speak with animals spells, but only as rituals.</p>
+      <p>Une voie qui cherche à vous initier au monde naturel, vous affiliant aux bêtes, est faite pour vous. Au niveau 3, lorsque vous adoptez cette voie, vous obtenez la capacité de lancer les sorts communication avec les animaux et sens animal, mais seulement en tant que rituels.</p>
     </description>
     <sheet>
-      <description>Cast Beast Sense and Speak With Animals as Rituals</description>
+      <description>vous obtenez la capacité de lancer les sorts communication avec les animaux et sens animal en tant que rituels.</description>
     </sheet>
     <rules>
       <grant type="Spell" id="ID_PHB_SPELL_BEAST_SENSE" />
       <grant type="Spell" id="ID_PHB_SPELL_SPEAK_WITH_ANIMALS" />
     </rules>
   </element>
-  <element name="Totem Spirit" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT">
+  <element name="Esprit totem" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT">
     <description>
-      <p>At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object- an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thickskinned, or if your totem is the eagle, your eyes turn bright yellow.</p>
-      <p>Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.</p>
+      <p>Au niveau 3, lorsque vous adoptez cette voie, vous choisissez un esprit totem et obtenez les avantages associés. Vous devez fabriquer ou obtenir un objet totem - une amulette ou un ornement similaire - constitué d'os, de poils, de griffes, de plumes ou de dents de votre animal totem. Si vous le souhaitez, vous pouvez également obtenir un attribut physique mineur qui rappelle votre esprit totem. Par exemple, si vous avez choisi l'ours comme esprit totem, vous pourriez être incroyablement poilu et avoir la peau épaisse, ou si votre totem est l'aigle, vos yeux pourraient virer au jaune.</p>
+      <p>Votre animal totem devrait être un animal correspondant à l'un de ceux listés ci-dessous ou s'en approchant mais dont l'espèce est plus appropriée à votre pays d'origine (un vautour ou un faucon à la place d'un aigle par exemple).</p>
     </description>
     <sheet>
       <description />
@@ -416,9 +416,9 @@
       <select type="Archetype Feature" name="Totem Spirit" supports="Totem Spirit" />
     </rules>
   </element>
-  <element name="Aspect of the Beast" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST">
+  <element name="Aspect de la bête" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST">
     <description>
-      <p>At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 3rd level or a different one.</p>
+      <p>Au niveau 6, vous obtenez un bénéfice magique dépendant de l'animal totem de votre choix. Vous pouvez choisir le même animal que celui sélectionné au niveau 3 ou en prendre un différent.</p>
     </description>
     <sheet>
       <description />
@@ -427,20 +427,20 @@
       <select type="Archetype Feature" name="Aspect of the Beast" supports="Aspect of the Beast" />
     </rules>
   </element>
-  <element name="Spirit Walker" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_SPIRIT_WALKER">
+  <element name="Marcheur spirituel" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_SPIRIT_WALKER">
     <description>
-      <p>At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.</p>
+      <p>Au niveau 10, vous pouvez lancer le sort communion avec la nature, mais seulement en tant que rituel. Lorsque vous le lancez, une version spirituelle de l'un des animaux que vous avez choisis avec Esprit totem ou Aspect de la bête apparaît et vous donne l'information que vous recherchez.</p>
     </description>
     <sheet>
-      <description>You can cast the commune with nature spell, but only as a ritual. A spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.</description>
+      <description>Vous pouvez lancer le sort communion avec la nature, mais seulement en tant que rituel. Lorsque vous le lancez, une version spirituelle de l'un des animaux que vous avez choisis avec Esprit totem ou Aspect de la bête apparaît et vous donne l'information que vous recherchez.</description>
     </sheet>
     <rules>
       <grant type="Spell" id="ID_PHB_SPELL_COMMUNE_WITH_NATURE" />
     </rules>
   </element>
-  <element name="Totemic Attunement" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT">
+  <element name="Lien totémique" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT">
     <description>
-      <p>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.</p>
+      <p>Au niveau 14, vous obtenez un bénéfice magique correspondant à l'animal totem de votre choix. Vous pouvez choisir un animal que vous avez précédemment sélectionné ou en prendre un nouveau.</p>
     </description>
     <sheet>
       <description />
@@ -450,97 +450,97 @@
     </rules>
   </element>
   <!-- Totem Spirit Choices-->
-  <element name="Totem Spirit (Bear)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT_BEAR">
+  <element name="Esprit totem (Ours)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT_BEAR">
     <supports>Totem Spirit</supports>
     <description>
-      <p>While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.</p>
+      <p>Lorsque vous êtes en rage, vous avez la résistance à tous les types de dégâts sauf aux dégâts psychiques. L'esprit de l'ours vous rend suffisamment coriace pour résister à n'importe quel châtiment.</p>
     </description>
-    <sheet alt="Bear">
-      <description>While raging, you have resistance to all damage except psychic damage.</description>
+    <sheet alt="Ours">
+      <description>Lorsque vous êtes en rage, vous avez la résistance à tous les types de dégâts sauf aux dégâts psychiques.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Totem Spirit (Eagle)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT_EAGLE">
+  <element name="Esprit totem (Aigle)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT_EAGLE">
     <supports>Totem Spirit</supports>
     <description>
-      <p>While you're raging and aren't wearing any armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash Action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.</p>
+      <p>Lorsque vous êtes en rage et ne portez pas d'armure lourde, les autres créatures ont un désavantage lors des attaques d'opportunité qu'elles effectuent contre vous, et vous pouvez utiliser l'action Foncer en tant qu'action bonus lors de votre tour. L'esprit de l'aigle fait de vous un prédateur capable de circuler dans la mêlée avec aisance.</p>
     </description>
-    <sheet alt="Eagle">
-      <description>While you're raging and aren't wearing any armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash Action as a bonus action on your turn.</description>
+    <sheet alt="Aigle">
+      <description>Lorsque vous êtes en rage et ne portez pas d'armure lourde, les autres créatures ont un désavantage lors des attaques d'opportunité qu'elles effectuent contre vous, et vous pouvez utiliser l'action Foncer en tant qu'action bonus lors de votre tour.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Totem Spirit (Wolf)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT_WOLF">
+  <element name="Esprit totem (Loup)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEM_SPIRIT_WOLF">
     <supports>Totem Spirit</supports>
     <description>
-      <p>While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wold makes you a leader of hunters.</p>
+      <p>Lorsque vous êtes en rage, vos alliés ont l'avantage aux jets d'attaque au corps à corps effectués contre toute créature située à 1,50 mètre de vous et qui vous sont hostiles. L'esprit du loup fait de vous le chef des chasseurs.</p>
     </description>
-    <sheet alt="Wolf">
-      <description>While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you.</description>
+    <sheet alt="Loup">
+      <description>Lorsque vous êtes en rage, vos alliés ont l'avantage aux jets d'attaque au corps à corps effectués contre toute créature située à 1,50 mètre de vous et qui vous sont hostiles.</description>
     </sheet>
     <rules />
   </element>
   <!-- Aspect of the Beast Choices-->
-  <element name="Aspect of the Beast (Bear)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST_BEAR">
+  <element name="Aspect de la bête (Ours)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST_BEAR">
     <supports>Aspect of the Beast</supports>
     <description>
-      <p>You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects.</p>
+      <p>Vous gagnez la puissance de l'ours. Votre capacité de charge (dont votre chargement maximal et votre capacité à soulever des objets) est doublée et vous obtenez l'avantage aux jets de Force effectués pour pousser, soulever, tirer ou briser des objets.</p>
     </description>
     <sheet>
-      <description>Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects.</description>
+      <description>Votre capacité de charge (dont votre chargement maximal et votre capacité à soulever des objets) est doublée et vous obtenez l'avantage aux jets de Force effectués pour pousser, soulever, tirer ou briser des objets.</description>
     </sheet>
     <rules>
       <!--<stat name="carrying capacity" value="*2" />-->
     </rules>
   </element>
-  <element name="Aspect of the Beast (Eagle)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST_EAGLE">
+  <element name="Aspect de la bête (Aigle)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST_EAGLE">
     <supports>Aspect of the Beast</supports>
     <description>
-      <p>You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.</p>
+      <p>Vous gagnez la vision de l'aigle. Vous pouvez voir jusqu'à 1,5 km sans difficulté, capable de discerner même les plus fins détails comme si vous regardiez quelque chose à 30 m de vous. De plus, une faible luminosité n'impose pas un désavantage à vos jets de Sagesse (Perception).</p>
     </description>
     <sheet>
-      <description>You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.</description>
+      <description>Vous pouvez voir jusqu'à 1,5 km sans difficulté, capable de discerner même les plus fins détails comme si vous regardiez quelque chose à 30 m de vous. De plus, une faible luminosité n'impose pas un désavantage à vos jets de Sagesse (Perception).</description>
     </sheet>
     <rules />
   </element>
-  <element name="Aspect of the Beast (Wolf)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST_WOLF">
+  <element name="Aspect de la bête (Loup)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_ASPECT_OF_THE_BEAST_WOLF">
     <supports>Aspect of the Beast</supports>
     <description>
-      <p>You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see chapter 8 for rules on travel pace).</p>
+      <p>Vous gagnez les sens de chasseur d'un loup. Vous pouvez pister les autres créatures lorsque vous voyagez à un rythme rapide et vous pouvez vous déplacer discrètement lorsque vous voyagez à un rythme normal (voir Partir à l'aventure).</p>
     </description>
     <sheet>
-      <description>You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.</description>
+      <description>Vous pouvez pister les autres créatures lorsque vous voyagez à un rythme rapide et vous pouvez vous déplacer discrètement lorsque vous voyagez à un rythme normal.</description>
     </sheet>
     <rules />
   </element>
   <!-- Totemic Attunement Choices-->
-  <element name="Totemic Attunement (Bear)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT_BEAR">
+  <element name="Lien totémique (Ours)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT_BEAR">
     <supports>Totemic Attunement</supports>
     <description>
-      <p>While you’re raging, any creature within 5 feet of you that’s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you or if it can’t be frightened.</p>
+      <p>Lorsque vous êtes en rage, toute créature située à 1,50 mètre de vous, et qui vous est hostile, a un désavantage aux jets d'attaque effectué contre une cible autre que vous, ou tout personnage avec cette capacité. Un ennemi est immunisé à cet effet s'il ne peut pas vous voir ou vous entendre ou qu'il ne peut pas être effrayé.</p>
     </description>
     <sheet>
-      <description>While you’re raging, any creature within 5 feet of you that’s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you or if it can’t be frightened.</description>
+      <description>Lorsque vous êtes en rage, toute créature située à 1,50 mètre de vous, et qui vous est hostile, a un désavantage aux jets d'attaque effectué contre une cible autre que vous, ou tout personnage avec cette capacité. Un ennemi est immunisé à cet effet s'il ne peut pas vous voir ou vous entendre ou qu'il ne peut pas être effrayé.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Totemic Attunement (Eagle)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT_EAGLE">
+  <element name="Lien totémique (Aigle)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT_EAGLE">
     <supports>Totemic Attunement</supports>
     <description>
-      <p>While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.</p>
+      <p>Lorsque vous êtes en rage, vous obtenez une vitesse de vol égale à votre vitesse actuelle de déplacement à pied. Cette capacité fonctionne uniquement sur de cours déplacements ; vous tombez si vous terminez votre tour dans les airs et que rien d'autre ne vous maintient en hauteur.</p>
     </description>
     <sheet>
-      <description>While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.</description>
+      <description>Lorsque vous êtes en rage, vous obtenez une vitesse de vol égale à votre vitesse actuelle de déplacement à pied. Cette capacité fonctionne uniquement sur de cours déplacements ; vous tombez si vous terminez votre tour dans les airs et que rien d'autre ne vous maintient en hauteur.</description>
     </sheet>
     <rules />
   </element>
-  <element name="Totemic Attunement (Wolf)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT_WOLF">
+  <element name="Lien totémique (Loup)" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PATH_OF_THE_TOTEM_WARRIOR_TOTEMIC_ATTUNEMENT_WOLF">
     <supports>Totemic Attunement</supports>
     <description>
-      <p>While you’re raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.</p>
+      <p>Lorsque vous êtes en rage vous pouvez utiliser une action bonus lors de votre tour pour mettre à terre une créature de taille G ou inférieure que vous avez touchée lors d'une attaque au corps à corps avec une arme.</p>
     </description>
     <sheet>
-      <description>While you’re raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.</description>
+      <description>Lorsque vous êtes en rage vous pouvez utiliser une action bonus lors de votre tour pour mettre à terre une créature de taille G ou inférieure que vous avez touchée lors d'une attaque au corps à corps avec une arme.</description>
     </sheet>
     <rules />
   </element>
