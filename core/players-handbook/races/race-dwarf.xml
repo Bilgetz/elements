@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>Dwarf</name>
+		<name>Nain</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.2.6">
@@ -9,41 +9,45 @@
 		</update>
 	</info>
 
-  <element name="Dwarf" type="Race" source="Player’s Handbook" id="ID_SRD_RACE_DWARF">
+  <element name="Nain" type="Race" source="Player’s Handbook" id="ID_SRD_RACE_DWARF">
     <description>
-      <p class="flavor">Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs—these common threads unite all dwarves.</p>
-      <h4>SHORT AND STOUT</h4>
-      <p>Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. Though they stand well under 5 feet tall, dwarves are so broad and compact that they can weigh as much as a human standing nearly two feet taller. Their courage and endurance are also easily a match for any of the larger folk.<br /> <span class="indent"></span>Dwarven skin ranges from deep brown to a paler hue tinged with red, but the most common shades are light brown or deep tan, like certain tones of earth. Their hair, worn long but in simple styles, is usually black, gray, or brown, though paler dwarves often have red hair. Male dwarves value their beards highly and groom them carefully.</p>
-      <h4>LONG MEMORY, LONG GRUDGES</h4>
-      <p>Dwarves can live to be more than 400 years old, so the oldest living dwarves often remember a very different world. For example, some of the oldest dwarves living in Citadel Felbarr (in the world of the Forgotten Realms) can recall the day, more than three centuries ago, when orcs conquered the fortress and drove them into an exile that lasted over 250 years. This longevity grants them a perspective on the world that shorter-lived races such as humans and halflings lack.<br /> <span class="indent" />Dwarves are solid and enduring like the mountains they love, weathering the passage of centuries with stoic endurance and little change. They respect the traditions of their clans, tracing their ancestry back to the founding of their most ancient strongholds in the youth of the world, and don't abandon those traditions lightly. Part of those traditions is devotion to the gods of the dwarves, who uphold the dwarven ideals of industrious labor, skill in battle, and devotion to the forge.<br /> <span class="indent" />Individual dwarves are determined and loyal, true to their word and decisive in action, sometimes to the point of stubbornness. Many dwarves have a strong sense of justice, and they are slow to forget wrongs they have suffered. A wrong done to one dwarf is a wrong done to the dwarf’s entire clan, so what begins as one dwarf’s hunt for vengeance can become a full-blown clan feud.</p>
-      <h4>CLANS AND KINGDOMS</h4>
+      <p class="flavor">De riches royaumes d’une ancienne magnificence, des halls creusés aux racines mêmes des montagnes, l’écho des pioches et des marteaux dans les mines profondes et les forges ardentes, un engagement au clan et à la tradition ainsi qu’une intense haine des gobelins et des orques, ce sont les traits communs qui unissent tous les nains.</p>
+      <h4>Petits et costauds</h4>
+      <p>Téméraires et robustes, les nains sont reconnus être aussi habiles en tant que guerriers, mineurs ou artisans de la pierre et du métal. Malgré leur taille ne dépassant pas 1,50 mètre, les nains sont larges et compacts au point de peser autant qu’un humain mesurant près d’un mètre de plus. Leur courage et leur endurance rivalisent facilement avec ceux des personnes plus grandes.<br /><span class="indent"></span>Le teint de peau des nains varie du brun foncé à des tons plus pâles avec un soupçon de rouge, mais la teinte la plus commune est le brun clair ou la couleur de l’ocre foncé, comme certains tons de la terre. Leur chevelure, portée longue mais simplement stylisée, est habituellement noire, grise ou brune, bien que les nains plus pâles aient souvent les cheveux roux. Les hommes accordent une grande valeur à leur barbe et l’entretiennent avec grand soin.</p>
+      <h4>Bonne mémoire et longues rancœurs</h4>
+      <p>Les nains peuvent vivre plus de 400 ans. Ainsi, les nains les plus âgés se remémorent souvent un monde bien différent. Par exemple, certains des plus vieux nains demeurant à la Citadelle Felbarr (dans l’univers des Royaumes Oubliés) se souviennent du jour, il y a plus de trois siècles, où les orques firent la conquête de la forteresse et les chassèrent vers un exil qui dura plus de 250 ans. Cette longévité leur confère une perspective sur le monde qui échappe aux races dont l’espérance de vie est plus courte, comme les humains et les halfelins.<br />
+        <span class="indent" />Les nains sont aussi solides et endurants que les montagnes qu’ils affectionnent, résistant au passage des siècles avec une endurance stoïque et de minimes changements. Ils respectent les traditions de leurs clans, qui remontent jusqu’à leurs ancêtres, au moment de la fondation de leurs plus anciens bastions alors que le monde était encore jeune. Et ils n’abandonnent pas facilement leurs traditions. Une part de ces traditions est le dévouement aux dieux des nains, qui prônent les idéaux nains du travail industrieux, de l’habilité au combat et du dévouement à la forge.<br />
+        <span class="indent" />Individuellement, un nain est déterminé et loyal, fidèle à sa parole et résolu dans ses actions au point d’être considéré comme un entêté. De nombreux nains possèdent un sens accru de la justice et oublient lentement le mal qu’on leur a fait subir. Un affront fait à un nain est un affront fait à tous les nains de son clan. Ce qui débute comme la vengeance d’un nain peut dégénérer en guerre de clans.</p>
+      <h4>Clans et royaumes</h4>
       <p>
-        Dwarven kingdoms stretch deep beneath the mountains where the dwarves mine gems and precious metals and forge items of wonder. They love the beauty and artistry of precious metals and fine jewelry, and in some dwarves this love festers into avarice. Whatever wealth they can’t find in their mountains, they gain through trade. They dislike boats, so enterprising humans and halflings frequently handle trade in dwarven goods along water routes. Trustworthy members of other races are welcome in dwarf settlements, though some areas are off limits even to them.<br /> <span class="indent" />The chief unit of dwarven society is the clan, and dwarves highly value social standing. Even dwarves who live far from their own kingdoms cherish their clan identities and affiliations, recognize related dwarves, and invoke their ancestors’ names in oaths and curses. To be clanless is the worst fate that can befall a dwarf.<br /> <span class="indent" />Dwarves in other lands are typically artisans, especially weaponsmiths, armorers, and jewelers. Some become mercenaries or bodyguards, highly sought after for their courage and loyalty.
+        Les royaumes nains s’étendent loin sous les massifs montagneux où les nains exploitent des mines de pierres et de métaux précieux pour en faire des objets merveilleux. Ils aiment la beauté et les qualités artistiques des métaux précieux et des bijoux raffinés à un point tel que certains nains succombent à l’avarice. S’il existe une richesse qu’ils ne peuvent trouver sous leurs montagnes, ils l’obtiennent par le commerce. Comme ils n’apprécient pas les bateaux, ce sont plutôt des humains et des halfelins entreprenants qui font le négoce des biens d’origine naine le long des voies maritimes. Les membres fiables des autres races sont bien accueillis dans les établissements nains, bien que certaines zones ne leur soient pas accessibles.<br />
+        <span class="indent" />L'unité principale de la société naine est le clan, et les nains apprécient hautement la valeur d’une position sociale. Même ceux qui vivent loin de leurs propres royaumes chérissent leur identité et leur affiliation clanique, et savent reconnaître les nains avec qui ils sont liés. Il n’est pas rare d’entendre un nain invoquer le nom d’un ancêtre en jurant ou en prêtant serment. Ne pas faire partie d’un clan est le pire sort qui puisse arriver à un nain.<br />
+        <span class="indent" />Les nains hors de chez eux sont généralement des artisans, plus particulièrement des forgerons, des armuriers ou des bijoutiers. Certains sont mercenaires ou gardes du corps, recherchés pour leur courage et leur loyauté.
       </p>
-      <h4>GODS, GOLD, AND CLANS</h4>
-      <p>Dwarves who take up the adventuring life might be motivated by a desire for treasure—for its own sake, for a specific purpose, or even out of an altruistic desire to help others. Other dwarves are driven by the command or inspiration of a deity, a direct calling or simply a desire to bring glory to one of the dwarf gods. Clan and ancestry are also important motivators. A dwarf might seek to restore a clan’s lost honor, avenge an ancient wrong the clan suffered, or earn a new place within the clan after having been exiled. Or a dwarf might search for the axe wielded by a mighty ancestor, lost on the field of battle centuries ago.</p>
-      <h4>DWARF NAMES</h4>
-      <p>A dwarf’s name is granted by a clan elder, in accordance with tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf’s name belongs to the clan, not to the individual. A dwarf who misuses or brings shame to a clan name is stripped of the name and forbidden by law to use any dwarven name in its place.</p>
+      <h4>Dieux, or et clan</h4>
+      <p>Les nains qui s’adonnent à la vie d’aventurier peuvent être motivés par le désir de trésors, pour son propre gain, pour une raison spécifique ou même par altruisme, pour aider les autres. D’autres nains sont poussés à la demande d’un dieu ou par l’inspiration d’une divinité, en réponse à un appel ou simplement par désir d’apporter la gloire à l’un des dieux nains. Le clan et l’ascendance sont aussi des motivateurs importants. Un nain pourrait tenter de rétablir l’honneur perdu d’un clan, venger un vieil affront subi par le clan ou gagner une nouvelle position dans le clan après un exil. Ou bien un nain pourrait chercher la hache que portait un puissant ancêtre, perdue sur le champ de bataille il y a de nombreux siècles.</p>
+      <h4>Noms nains</h4>
+      <p>Le nom d'un nain lui est donné par un ancien du clan, conformément à la tradition. Chaque nom est utilisé et réutilisé à travers les générations, car le nom d’un nain appartient au clan et non pas à la personne. S’il fait honte à son nom ou le salit, le clan privera le nain de son nom, et la loi naine interdit à toute personne ainsi dépouillée de son nom d’utiliser un autre nom nain à sa place.</p>
       <p>
-        <span class="emphasis">Male Names: </span>Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal<br />
-        <span class="emphasis">Female Names: </span>Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra<br />
-        <span class="emphasis">Clan Names: </span>Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
+        <span class="emphasis">Noms masculins: </span>Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal<br />
+        <span class="emphasis">Noms féminins: </span>Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra<br />
+        <span class="emphasis">Noms de clan: </span>Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
       </p>
-      <h4>DWARF TRAITS</h4>
-      <p>Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.</p>
+      <h4>Traits</h4>
+      <p>Votre personnage nain est doté d'un ensemble de capacités innées liées à sa nature de nain.</p>
       <p>
-        <span class="feature">Ability Score Increase. </span>Your Constitution score increases by 2.<br />
-        <span class="feature">Age. </span>Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.<br />
-        <span class="feature">Alignment. </span>Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.<br />
-        <span class="feature">Size. </span>Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.<br />
-        <span class="feature">Speed. </span>Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.<br />
-        <span class="feature">Darkvision. </span>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.<br />
-        <span class="feature">Dwarven Resilience. </span>You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).<br />
-        <span class="feature">Dwarven Combat Training. </span>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.<br />
-        <span class="feature">Tool Proficiency. </span>You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.<br />
-        <span class="feature">Stonecunning. </span>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.<br />
-        <span class="feature">Languages. </span>You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.<br />
-        <span class="feature">Subrace. </span>Two main subraces of dwarves populate the worlds of D&amp;D: hill dwarves and mountain dwarves. Choose one of these subraces.<br />
+        <span class="feature">Augmentation de caractéristiques. </span>Votre Constitution augmente de 2.<br />
+        <span class="feature">Âge. </span>Les nains vieillissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à ce qu'ils atteignent l'âge de 50 ans. En moyenne, ils vivent environ 350 ans.<br />
+        <span class="feature">Alignement. </span>La plupart des nains sont d'alignement loyal, croyant fermement aux avantages d'une société bien ordonnée. Ils tendent également à être bons, ont un fort sens du fair-play et la ferme conviction que tout le monde mérite de partager les avantages d'un ordre juste.<br />
+        <span class="feature">Taille. </span>Les nains mesurent entre 1,20 m et 1,50 m pour un poids aux alentours de 70 kg. Votre taille est Moyenne (M).<br />
+        <span class="feature">Vitesse. </span>Votre vitesse de base est de 7,50 mètres. Votre vitesse n'est pas réduite par le port d'une armure lourde.<br />
+        <span class="feature">Vision dans le noir. </span>Habitué à la vie souterraine, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 18 mètres dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.<br />
+        <span class="feature">Résistance naine. </span>Vous avez l'avantage aux jets de sauvegarde contre le poison et obtenez la résistance contre les dégâts de poison.<br />
+        <span class="feature">Entraînement aux armes naines. </span>Vous obtenez la maîtrise des hachettes, des haches d'armes, des marteaux légers et des marteaux de guerre.<br />
+        <span class="feature">Maîtrise des outils. </span>Vous obtenez la maîtrise d'un des outils d'artisan suivant au choix : outils de forgeron, outils de brasseur ou outils de maçon.<br />
+        <span class="feature">Connaissance de la pierre. </span>Chaque fois que vous effectuez un jet d'Intelligence (Histoire) en relation avec l'origine d'un travail lié à la pierre, considérez que vous maîtrisez la compétence Histoire et ajoutez le double de votre bonus de maîtrise au jet, au lieu du bonus de maîtrise normal.<br />
+        <span class="feature">Langues. </span>Vous parlez, lisez et écrivez le commun et le nain. La langue naine comporte de nombreuses consonnes dures et sons gutturaux, et ces caractéristiques se retrouvent lorsqu'un nain parle une autre langue.<br />
+        <span class="feature">Sous-race. </span>Choisissez une des deux sous-races proposées ci-après.<br />
       </p>
     </description>
     <sheet display="false" />
@@ -68,27 +72,27 @@
     </rules>
   </element>
 
-  <element name="Dwarven Resilience" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_RESILIENCE">
+  <element name="Résistance naine" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_RESILIENCE">
     <supports />
     <requirements />
     <description>
-      <p>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>
+      <p>Vous avez l'avantage aux jets de sauvegarde contre le poison et obtenez la résistance contre les dégâts de poison.</p>
     </description>
     <sheet>
-      <description>You have advantage on saving throws against poison, and you have resistance against poison damage.</description>
+      <description>Vous avez l'avantage aux jets de sauvegarde contre le poison et obtenez la résistance contre les dégâts de poison.</description>
     </sheet>
     <rules>
 		<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
 	</rules>
   </element>
-  <element name="Dwarven Combat Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_COMBAT_TRAINING">
+  <element name="Entraînement aux armes naines" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_COMBAT_TRAINING">
     <supports />
     <requirements />
     <description>
-      <p>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</p>
+      <p>Vous obtenez la maîtrise des hachettes, des haches d'armes, des marteaux légers et des marteaux de guerre.</p>
     </description>
     <sheet display="false">
-      <description>You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.</description>
+      <description>Vous obtenez la maîtrise des hachettes, des haches d'armes, des marteaux légers et des marteaux de guerre.</description>
     </sheet>
     <rules>
       <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_BATTLEAXE" />
@@ -97,25 +101,25 @@
       <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WARHAMMER" />
     </rules>
   </element>
-  <element name="Tool Proficiency" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_TOOL_PROFICIENCY">
+  <element name="Maîtrise des outils" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_TOOL_PROFICIENCY">
     <supports />
     <requirements />
     <description>
-      <p>You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.</p>
+      <p>Vous obtenez la maîtrise d'un des outils d'artisan suivant au choix : outils de forgeron, outils de brasseur ou outils de maçon.</p>
     </description>
     <sheet display="false"/>
     <rules>
       <select type="Proficiency" name="Dwarven Tool Proficiency" supports="ID_PROFICIENCY_TOOL_PROFICIENCY_SMITHS_TOOLS|ID_PROFICIENCY_TOOL_PROFICIENCY_BREWERS_SUPPLIES|ID_PROFICIENCY_TOOL_PROFICIENCY_MASONS_TOOLS" />
     </rules>
   </element>
-  <element name="Stonecunning" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_STONECUNNING">
+  <element name="Connaissance de la pierre" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_STONECUNNING">
     <supports />
     <requirements />
     <description>
-      <p>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>
+      <p>Chaque fois que vous effectuez un jet d'Intelligence (Histoire) en relation avec l'origine d'un travail lié à la pierre, considérez que vous maîtrisez la compétence Histoire et ajoutez le double de votre bonus de maîtrise au jet, au lieu du bonus de maîtrise normal.</p>
     </description>
     <sheet>
-      <description>A +{{stonecunning:check}} on Intelligence (History) check related to origin of stonework.</description>
+      <description> +{{stonecunning:check}} sur les jet d'Intelligence (Histoire) en relation avec l'origine d'un travail lié à la pierre.</description>
     </sheet>
     <rules>
       <stat name="stonecunning:check" value="intelligence:modifier" />
@@ -124,11 +128,11 @@
       <stat name="stonecunning:check" value="proficiency" />
     </rules>
   </element>
-  <element name="Dwarven Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_SUBRACE">
+  <element name="Sous-race" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_SUBRACE">
     <supports></supports>
     <requirements />
     <description>
-      <p>Two main subraces of dwarves populate the worlds of D&amp;D: hill dwarves and mountain dwarves. Choose one of these subraces.</p>
+      <p>Deux principales sous-races de nains popule le monde de D&amp;D: Nain des collines and Nain des montagnes. Choisissez une des ces sous-races.</p>
     </description>
     <sheet display="false"/>
     <rules>
@@ -136,14 +140,14 @@
     </rules>
   </element>
 
-  <element name="Hill Dwarf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_HILL_DWARF">
+  <element name="Nain des collines" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_HILL_DWARF">
     <supports>Dwarf</supports>
     <requirements />
     <description>
-      <p>As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerûn in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.</p>
+      <p>En tant que nain des collines, vous avez les sens aiguisés, une forte intuition et une résistance remarquable. Les nains d'or de Faerûn dans leur puissant royaume du sud sont des nains des collines.</p>
       <p>
-        <span class="feature">Ability Score Increase.</span>Your Wisdom score increases by 1.<br />
-        <span class="feature">Dwarven Toughness.</span>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.<br />
+        <span class="feature">Augmentation de caractéristiques.</span>Votre Sagesse augmente de 1.<br />
+        <span class="feature">Robustesse naine.</span>Vos points de vie maximums augmentent de 1 à chaque niveau.<br />
       </p>
     </description>
     <sheet display="false"/>
@@ -156,28 +160,28 @@
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_TOUGHNESS" />
     </rules>
   </element>
-  <element name="Dwarven Toughness" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_TOUGHNESS">
+  <element name="Robustesse naine" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_TOUGHNESS">
     <supports />
     <requirements />
     <description>
-      <p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>
+      <p>Vos points de vie maximums augmentent de 1 à chaque niveau.</p>
     </description>
     <sheet display="false">
-      <description>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</description>
+      <description>Vos points de vie maximums augmentent de 1 à chaque niveau.</description>
     </sheet>
     <rules>
       <stat name="hp" value="level" />
     </rules>
   </element>
 
-  <element name="Mountain Dwarf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_MOUNTAIN_DWARF">
+  <element name="Nain des montagnes" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_MOUNTAIN_DWARF">
     <supports>Dwarf</supports>
     <requirements />
     <description>
-      <p>As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You’re probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerûn, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.</p>
+      <p>En tant que nain des montagnes, vous êtes fort et robuste, et habitué à une vie difficile en terrain accidenté. Vous êtes probablement plus grand que la moyenne (pour un nain) et votre peau est plus claire. Les nains d'écu au nord de Faerûn sont des nains des montagnes.</p>
       <p>
-        <span class="feature">Ability Score Increase. </span>Your Strength score increases by 2.<br />
-        <span class="feature">Dwarven Armor Training. </span>You have proficiency with light and medium armor.
+        <span class="feature">Augmentation de caractéristiques. </span>Votre Force augmente de 2.<br />
+        <span class="feature">Formation au port des armures naines. </span>Vous maîtrisez les armures légères et intermédiaires.
       </p>
     </description>
     <sheet display="false"/>
@@ -190,14 +194,14 @@
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DWARVEN_ARMOR_TRAINING" />
     </rules>
   </element>
-  <element name="Dwarven Armor Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_ARMOR_TRAINING">
+  <element name="Formation au port des armures naines" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DWARVEN_ARMOR_TRAINING">
     <supports />
     <requirements />
     <description>
-      <p>You have proficiency with light and medium armor.</p>
+      <p>Vous maîtrisez les armures légères et intermédiaires.</p>
     </description>
     <sheet>
-      <description>You have proficiency with light and medium armor.</description>
+      <description>Vous maîtrisez les armures légères et intermédiaires.</description>
     </sheet>
     <rules>
       <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
